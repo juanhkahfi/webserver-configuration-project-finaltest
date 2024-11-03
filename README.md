@@ -5,7 +5,7 @@ Task:
 <li>Default NGINX port 80 to 3000</li>
 <li>Change the respons of / endpoint into my username</li>
 <li>Add limitation request into 6 req per minutes</li>
-![Result](./images1.png)
 
+![Result](./images1.png)
 Thanks!
 ![Assessment](./images2.png)
