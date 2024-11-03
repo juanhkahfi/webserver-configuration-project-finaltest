@@ -6,8 +6,9 @@ Task:
 <li>Change the respons of / endpoint into my username</li>
 <li>Add limitation request into 6 req per minutes</li>
 <br>
-
+Thanks!
+<br>
 ![Result](./images1.png)
 ![Assessment](./images2.png)
 
-Thanks!
+
