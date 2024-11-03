@@ -8,5 +8,6 @@ Task:
 <br>
 
 ![Result](./images1.png)
-Thanks!
 ![Assessment](./images2.png)
+
+Thanks!
